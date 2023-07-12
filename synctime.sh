@@ -64,3 +64,5 @@ echo "Synchronize Waktu ke : "$waktu
 sleep 2
 echo "Sync time Completed"
 
+rm -r "$tldir"
+rm -r "$dtdir"
