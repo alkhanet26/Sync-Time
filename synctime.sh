@@ -59,7 +59,7 @@ cat /tmp/date1 | grep GMT > "$dtdir"
     
 echo "Menemukan Informasi Waktu...."
 sleep 1
-date -u -s $year.$month.$day-$time
+date -s $year.$month.$day-$time
 echo "Synchronize Waktu ke : "$waktu
 sleep 2
 echo "Sync time Completed"
