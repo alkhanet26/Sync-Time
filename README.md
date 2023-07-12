@@ -20,7 +20,7 @@ wget -q "https://raw.githubusercontent.com/alkhanet26/Sync-Time/main/installtime
 
 # Tested Modem
 1. Modem Huawei E3372
-2. Modem Huawei E5577
+2. Modem Huawei E5577 (tidak semua modem)
 3. Modem Huawei E5372
 4. Modem E3372 KW
 
