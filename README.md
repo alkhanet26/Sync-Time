@@ -5,6 +5,7 @@ Auto Sync Waktu ini dapat digunakan dimodem yang sudah di mod webui nya terutama
 # Pemasangan
 
 untuk  memasang ``synctime`` ini diperlukan paket pendukung sudah di sertakan dalam file installasi nya,,,
+dari sisi modem yg webui mod pastikan fitur adb nya aktif ya 
 saat memasang ``synctime`` ini sebaiknya pastikan koneksi internet anda stabil
 
 copy dan paste perintah dibawah ini di terminal openwrt
