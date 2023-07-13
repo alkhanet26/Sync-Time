@@ -1,12 +1,12 @@
 # Sync Time for Hilink Modem (Web UI Mod)
 
-Auto Sync Waktu ini dapat digunakan dimodem yang sudah di mod webui nya terutama modem huawei dan dapt juga digunakan di modem yg masih web ui original,,,
+Auto Sync Waktu ini dapat digunakan dimodem yang sudah di mod webui nya terutama modem huawei dan dapat juga digunakan di modem yg masih web ui original,,,
 
 # Pemasangan
 
 untuk  memasang ``synctime`` ini diperlukan paket pendukung sudah di sertakan dalam file installasi nya,,,
 
-dari sisi modem yg webui mod pastikan fitur adb nya aktif ya 
+dari sisi modem, yg webui mod pastikan fitur ``adb`` nya aktif ya 
 
 saat memasang ``synctime`` ini sebaiknya pastikan koneksi internet anda stabil
 
