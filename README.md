@@ -19,6 +19,7 @@ wget -q "https://raw.githubusercontent.com/alkhanet26/Sync-Time/main/installtime
 # Penggunaan
 1. untuk penggunaan manual silahkan ketik ``synctime`` di terminal openwrt
 2. untuk penggunaan auto silahkan ketikan ``sleep 3 && /sbin/synctime`` di rc.local atau di /system/startup openwrt
+3. bahkan bisa juga dipasang di schedule task / crontab contoh : ``* */2 * * * /sbin/synctime > /dev/null 2>&1`` agar selalu sync tiap 2jam
 
 # Tested Modem
 1. Modem Huawei E3372
